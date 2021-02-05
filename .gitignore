@@ -1,3 +1,8 @@
+file_to_hash.txt
+result.txt
+hash_function.py
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
